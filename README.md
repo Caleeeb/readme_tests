@@ -1,12 +1,12 @@
-<h1 id='title'> t </h1>
+<h1 id='title'> The Test </h1>
 
-![GitHub License](https://img.shields.io/badge/license-GPL3.0-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 <h2 id='contents'> Table of Contents </h2>
 
 * [Description](#description)
 
-* [GPL3.0 License](#license)
+* [MIT License](#license)
 
 * [Installation](#installation)
 
@@ -20,17 +20,15 @@
 
 <h2 id='description'> Description </h2>
 
-t
+This is a test.
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
 <h2 id='license'>License</h2>
 
-      Copyright © GPL3.0. All rights reserved.
+      Copyright © MIT. All rights reserved.
       
-      Lincensed under the GPL3.0 license.
-      
-      ![GitHub License](https://img.shields.io/badge/license-GPL3.0-blue.svg)
+      Lincensed under the MIT license.
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -39,14 +37,14 @@ t
 Run these commands to install description:
 
 ```
-t
+npm i
 ```
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
 <h2 id='usage'> Usage </h2>
 
-t
+This a used for testing.
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -56,14 +54,14 @@ t
 Use these commands to run tests:
 
 ```
-t
+npm run test
 ```
     
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
     
 <h2 id='contributors'> Contributors </h2>
 
-t
+testguy.com
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -71,6 +69,6 @@ t
 
 If you have any questions, contact:
 
-t
+tester.com
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>

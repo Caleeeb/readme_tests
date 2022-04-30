@@ -1,13 +1,12 @@
 <h1 id='title'> t </h1>
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-GNU v3.0-blue.svg)
 
 <h2 id='contents'> Table of Contents </h2>
 
 * [Description](#description)
 
-* [License](#license)
-
+* [GNU v3.0 License](#license)
 
 * [Installation](#installation)
 
@@ -25,12 +24,12 @@ t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-GNU v3.0-blue.svg)
 <h2 id='license'>License</h2>
 
-      Copyright © MIT. All rights reserved.
+      Copyright © GNU v3.0. All rights reserved.
       
-      Lincensed under the MIT license.
+      Lincensed under the GNU v3.0 license.
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 

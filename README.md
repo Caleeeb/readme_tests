@@ -1,10 +1,10 @@
 <h1 id='title'> test test </h1>
 
-    ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-    <h2 id='contents'> Table of Contents </h2>
+<h2 id='contents'> Table of Contents </h2>
 
-    *[Description](#description)
+*[Description](#description)
     MIT
 * [License](#license)
 

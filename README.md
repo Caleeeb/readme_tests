@@ -4,20 +4,20 @@
 
 <h2 id='contents'> Table of Contents </h2>
 
-*[Description](#description)
+* [Description](#description)
 
 * [License](#license)
 
 
-*[Installation](#installation)
+* [Installation](#installation)
 
-*[Usage](#usage)
+* [Usage](#usage)
  
-*[Tests](#tests)
+* [Tests](#tests)
 
-*[Contributors](#contributors)
+* [Contributors](#contributors)
 
-*[Questions](#questions) 
+* [Questions](#questions) 
 
 <h2 id='description'> Description </h2>
 

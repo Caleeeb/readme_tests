@@ -1,12 +1,12 @@
 <h1 id='title'> t </h1>
 
-![GitHub License](https://img.shields.io/badge/license-GNU v3.0-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-Apache License 2.0-blue.svg)
 
 <h2 id='contents'> Table of Contents </h2>
 
 * [Description](#description)
 
-* [GNU v3.0 License](#license)
+* [Apache License 2.0 License](#license)
 
 * [Installation](#installation)
 
@@ -24,12 +24,12 @@ t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
-![GitHub License](https://img.shields.io/badge/license-GNU v3.0-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-Apache License 2.0-blue.svg)
 <h2 id='license'>License</h2>
 
-      Copyright © GNU v3.0. All rights reserved.
+      Copyright © Apache License 2.0. All rights reserved.
       
-      Lincensed under the GNU v3.0 license.
+      Lincensed under the Apache License 2.0 license.
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 

@@ -1,25 +1,25 @@
 <h1 id='title'> coool beans </h1>
 
-    ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-    <h2 id='contents'> Table of Contents </h2>
+<h2 id='contents'> Table of Contents </h2>
 
-    *[Description](#description)
-    ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[Tests](#tests)
-    *[Contributors](#contributors)
-    *[Questions](#questions) 
+*[Description](#description)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+*[Installation](#installation)
+*[Usage](#usage)
+*[Tests](#tests)
+*[Contributors](#contributors)
+*[Questions](#questions) 
 
 
-    <h2 id='description'> Description </h2>
+<h2 id='description'> Description </h2>
 
-    makes beans cool
+makes beans cool
 
-    <p style='text-align: right;'><a href='#title'>Back to top</a></p>
+<p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
-    <h2 id='license'> License </h2>
+<h2 id='license'> License </h2>
 
     MIT
 * [License](#license)

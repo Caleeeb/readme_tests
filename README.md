@@ -1,4 +1,4 @@
-<h1 id='title'> The Test </h1>
+<h1 id='title'> t </h1>
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -6,7 +6,6 @@
 
 *[Description](#description)
 
-MIT
 * [License](#license)
 
 
@@ -22,7 +21,7 @@ MIT
 
 <h2 id='description'> Description </h2>
 
-This is test.
+t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -40,14 +39,14 @@ This is test.
 Run these commands to install description:
 
 ```
-npm i
+t
 ```
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
 <h2 id='usage'> Usage </h2>
 
-This is a test.
+t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -57,14 +56,14 @@ This is a test.
 Use these commands to run tests:
 
 ```
-npm run test
+t
 ```
     
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
     
 <h2 id='contributors'> Contributors </h2>
 
-testguy.com
+t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
@@ -72,7 +71,6 @@ testguy.com
 
 If you have any questions, contact:
 
-test.com
+t
 
 <p style='text-align: right;'><a href='#title'>Back to top</a></p>
-

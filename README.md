@@ -5,11 +5,17 @@
 <h2 id='contents'> Table of Contents </h2>
 
 *[Description](#description)
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 *[Installation](#installation)
+
 *[Usage](#usage)
+
 *[Tests](#tests)
+
 *[Contributors](#contributors)
+
 *[Questions](#questions) 
 
 
